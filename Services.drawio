@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-28T19:38:11.069Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="W8gBCD6EnJHl_2B7k1xI" version="13.7.3" type="github" pages="2">
+<mxfile modified="2020-09-28T19:39:07.425Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="s07vC5-Yftz6fav8vHu9" version="13.7.3" type="github" pages="2">
   <diagram id="jnrf7XR8iZQ8o_QVjMpf" name="Services">
     <mxGraphModel dx="1019" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="50NL0IFBO9b7WkPfRNp8" name="OOD">
-    <mxGraphModel dx="1635" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="4088" dy="2193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="I6xNCLQTCHhyQls_4eej-0" />
         <mxCell id="I6xNCLQTCHhyQls_4eej-1" parent="I6xNCLQTCHhyQls_4eej-0" />
@@ -81,19 +81,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I6xNCLQTCHhyQls_4eej-9" value="Requirement (Functional) [5-7 Mins]&lt;br&gt;&lt;ul&gt;&lt;li&gt;Use case&lt;/li&gt;&lt;li&gt;Top requirements&lt;/li&gt;&lt;li&gt;Layout assumptions&lt;/li&gt;&lt;li&gt;Clarify Scope&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;arcSize=6;" vertex="1" parent="I6xNCLQTCHhyQls_4eej-1">
-          <mxGeometry x="1240" y="170" width="280" height="160" as="geometry" />
+          <mxGeometry x="80" y="1120" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="I6xNCLQTCHhyQls_4eej-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="I6xNCLQTCHhyQls_4eej-1" source="I6xNCLQTCHhyQls_4eej-10" target="I6xNCLQTCHhyQls_4eej-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I6xNCLQTCHhyQls_4eej-10" value="Use Case Diagram [3 Min]&lt;br&gt;&lt;ol&gt;&lt;li&gt;Identify actors (keep them conservative)&lt;/li&gt;&lt;li&gt;What actors do&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;arcSize=6;" vertex="1" parent="I6xNCLQTCHhyQls_4eej-1">
-          <mxGeometry x="1240" y="390" width="280" height="160" as="geometry" />
+          <mxGeometry x="80" y="1340" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="I6xNCLQTCHhyQls_4eej-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="I6xNCLQTCHhyQls_4eej-1" source="I6xNCLQTCHhyQls_4eej-12" target="I6xNCLQTCHhyQls_4eej-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I6xNCLQTCHhyQls_4eej-12" value="Activity Diagram[3 Min]&lt;br&gt;&lt;ul&gt;&lt;li&gt;Create flow diagram&lt;/li&gt;&lt;li&gt;Sequence diagram&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;arcSize=6;" vertex="1" parent="I6xNCLQTCHhyQls_4eej-1">
-          <mxGeometry x="1240" y="600" width="280" height="160" as="geometry" />
+          <mxGeometry x="80" y="1550" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="I6xNCLQTCHhyQls_4eej-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;curved=1;" edge="1" parent="I6xNCLQTCHhyQls_4eej-1" source="I6xNCLQTCHhyQls_4eej-14" target="I6xNCLQTCHhyQls_4eej-16">
           <mxGeometry relative="1" as="geometry" />
@@ -102,19 +102,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I6xNCLQTCHhyQls_4eej-14" value="Class Diagram [10 Mins]&lt;br&gt;&lt;ul&gt;&lt;li&gt;Identify Core Classes&lt;/li&gt;&lt;li&gt;Within concepts and principles&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;arcSize=6;" vertex="1" parent="I6xNCLQTCHhyQls_4eej-1">
-          <mxGeometry x="1240" y="810" width="280" height="160" as="geometry" />
+          <mxGeometry x="80" y="1760" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="I6xNCLQTCHhyQls_4eej-16" value="&lt;div&gt;&lt;b&gt;Concepts And Principles&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Rule to identify Objects :&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;Nouns &lt;/b&gt;in requirements are possible candidates for &lt;b&gt;Objects&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Verbs &lt;/b&gt;in the requirements are possible &lt;b&gt;methods&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Identify the &lt;b&gt;relationship between objects&lt;/b&gt;.&lt;/li&gt;&lt;li&gt;Identify whether to use &lt;b&gt;abstract class or interface&lt;/b&gt; for &lt;b&gt;abstractions&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Identify/use &lt;b&gt;Design Pattern&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;creational&lt;/li&gt;&lt;li&gt;structural&lt;/li&gt;&lt;li&gt;behavioral&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Design the class diagram&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;arcSize=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="I6xNCLQTCHhyQls_4eej-1">
-          <mxGeometry x="1600" y="780" width="600" height="290" as="geometry" />
+          <mxGeometry x="580" y="1820" width="600" height="290" as="geometry" />
         </mxCell>
         <mxCell id="I6xNCLQTCHhyQls_4eej-18" value="Code :&lt;br&gt;&lt;ol&gt;&lt;li&gt;Interface &amp;amp; Abstract class and why&lt;/li&gt;&lt;li&gt;Core logic&lt;/li&gt;&lt;li&gt;Junit&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;arcSize=6;" vertex="1" parent="I6xNCLQTCHhyQls_4eej-1">
-          <mxGeometry x="1240" y="1010" width="280" height="160" as="geometry" />
+          <mxGeometry x="80" y="1960" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="I6xNCLQTCHhyQls_4eej-21" value="&lt;ul&gt;&lt;li&gt;https://www.oodesign.com/interface-segregation-principle.html&lt;/li&gt;&lt;li&gt;https://dzone.com/articles/software-design-principles-dry-and-kiss#:~:text=The%20DRY%20Principle%3A%20Don&#39;t,unambiguous%20representation%20within%20a%20system.%22&lt;/li&gt;&lt;li&gt;https://www.codeproject.com/articles/36712/solid-and-dry&lt;br&gt;&lt;/li&gt;&lt;li&gt;https://dzone.com/articles/21-object-oriented-and-system-design-problems-to-p&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="I6xNCLQTCHhyQls_4eej-1">
-          <mxGeometry x="280" y="1030" width="550" height="160" as="geometry" />
+          <mxGeometry x="450" y="2140" width="550" height="160" as="geometry" />
         </mxCell>
         <mxCell id="I6xNCLQTCHhyQls_4eej-22" value="Class: Blueprint&lt;br&gt;&lt;ul&gt;&lt;li&gt;Field, constructor, methods, objects&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Object: Instance of class with its own memory&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;State, Behavior and Identity(hash, serial id)&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Polymorphism&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Compile time: Method overloading&lt;/li&gt;&lt;li&gt;Runtime : Method overriding (is-a relation), inheritance&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Inheritance: Reusability, runtime polymorphism, IS-a relationship, extends&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Single level, multi-level, multiple, hierarchal, hybrid&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;Abstraction : Show/Hide implementation,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;wants to protect implementation and HIDE extra info and complexity (KISS)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;objects that help to perform abstraction are encapsulated.&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Abstract class&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Interface&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Encapsulation: Access modifiers, access pattern&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;wants to protect data using getters and setters&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Hide data in single entity and method protects data outside it (conserve)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;objects that result in encapsulation need not be abstracted.&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;arcSize=4;" vertex="1" parent="I6xNCLQTCHhyQls_4eej-1">
-          <mxGeometry x="300" y="1290" width="850" height="790" as="geometry" />
+          <mxGeometry x="460" y="1010" width="850" height="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
