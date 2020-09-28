@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-28T19:39:07.425Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="s07vC5-Yftz6fav8vHu9" version="13.7.3" type="github" pages="2">
+<mxfile modified="2020-09-28T19:48:32.849Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="w9Aj7JFAM0Q97gcNzdFM" version="13.7.3" type="github" pages="2">
   <diagram id="jnrf7XR8iZQ8o_QVjMpf" name="Services">
     <mxGraphModel dx="1019" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="50NL0IFBO9b7WkPfRNp8" name="OOD">
-    <mxGraphModel dx="4088" dy="2193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="I6xNCLQTCHhyQls_4eej-0" />
         <mxCell id="I6xNCLQTCHhyQls_4eej-1" parent="I6xNCLQTCHhyQls_4eej-0" />
@@ -115,6 +115,12 @@
         </mxCell>
         <mxCell id="I6xNCLQTCHhyQls_4eej-22" value="Class: Blueprint&lt;br&gt;&lt;ul&gt;&lt;li&gt;Field, constructor, methods, objects&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Object: Instance of class with its own memory&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;State, Behavior and Identity(hash, serial id)&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Polymorphism&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Compile time: Method overloading&lt;/li&gt;&lt;li&gt;Runtime : Method overriding (is-a relation), inheritance&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Inheritance: Reusability, runtime polymorphism, IS-a relationship, extends&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Single level, multi-level, multiple, hierarchal, hybrid&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;Abstraction : Show/Hide implementation,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;wants to protect implementation and HIDE extra info and complexity (KISS)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;objects that help to perform abstraction are encapsulated.&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Abstract class&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Interface&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Encapsulation: Access modifiers, access pattern&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;wants to protect data using getters and setters&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Hide data in single entity and method protects data outside it (conserve)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;objects that result in encapsulation need not be abstracted.&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;arcSize=4;" vertex="1" parent="I6xNCLQTCHhyQls_4eej-1">
           <mxGeometry x="460" y="1010" width="850" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="I6xNCLQTCHhyQls_4eej-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;arcSize=4;" vertex="1" parent="I6xNCLQTCHhyQls_4eej-1">
+          <mxGeometry x="1710" y="90" width="850" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="I6xNCLQTCHhyQls_4eej-25" value="Design patterns: &lt;a href=&quot;https://dzone.com/refcardz/design-patterns?chapter=18&quot;&gt;link&lt;/a&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Creational&lt;/li&gt;&lt;li&gt;Structural&lt;/li&gt;&lt;li&gt;Behavioral&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;arcSize=6;" vertex="1" parent="I6xNCLQTCHhyQls_4eej-1">
+          <mxGeometry x="1210" y="120" width="280" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
