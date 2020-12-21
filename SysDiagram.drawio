@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-19T11:35:20.375Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="SL54pKU3UZLBCQ_9KaJa" version="13.8.2" type="github" pages="4">
+<mxfile modified="2020-12-21T17:47:20.205Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_gKZrnrc5-mMDk3ZwUtC" version="13.8.2" type="github" pages="4">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Flow">
     <mxGraphModel dx="1363" dy="731" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -185,7 +185,7 @@
           <mxGeometry x="2710" y="920" width="310" height="460" as="geometry" />
         </mxCell>
         <mxCell id="pszP0FanW5sP4Dd1TjFt-0" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Relational&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Vs&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Non-Relational" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=left;" parent="LPvS2a-wgWfW8XgeyqXS-1" vertex="1">
-          <mxGeometry x="2040" y="1380" width="460" height="276" as="geometry" />
+          <mxGeometry x="2040" y="1380" width="460" height="450" as="geometry" />
         </mxCell>
         <mxCell id="pszP0FanW5sP4Dd1TjFt-1" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="pszP0FanW5sP4Dd1TjFt-0" vertex="1">
           <mxGeometry y="30" width="460" height="41" as="geometry" />
@@ -258,6 +258,33 @@
         </mxCell>
         <mxCell id="pszP0FanW5sP4Dd1TjFt-37" value="semi/un-structred" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pszP0FanW5sP4Dd1TjFt-34" vertex="1">
           <mxGeometry x="307" width="153" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="KQcGgtj78E7ggVcid-q8-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pszP0FanW5sP4Dd1TjFt-0">
+          <mxGeometry y="276" width="460" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="KQcGgtj78E7ggVcid-q8-6" value="Pros" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="KQcGgtj78E7ggVcid-q8-5">
+          <mxGeometry width="153" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="KQcGgtj78E7ggVcid-q8-7" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Transactions&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Indexes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Joins&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;ACID&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="KQcGgtj78E7ggVcid-q8-5">
+          <mxGeometry x="153" width="154" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="KQcGgtj78E7ggVcid-q8-8" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Sharding&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Commodity H/W&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="KQcGgtj78E7ggVcid-q8-5">
+          <mxGeometry x="307" width="153" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="KQcGgtj78E7ggVcid-q8-1" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pszP0FanW5sP4Dd1TjFt-0">
+          <mxGeometry y="350" width="460" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KQcGgtj78E7ggVcid-q8-2" value="Cons" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="KQcGgtj78E7ggVcid-q8-1">
+          <mxGeometry width="153" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KQcGgtj78E7ggVcid-q8-3" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;No Scaling&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Expensive H/W&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="KQcGgtj78E7ggVcid-q8-1">
+          <mxGeometry x="153" width="154" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KQcGgtj78E7ggVcid-q8-4" value="&lt;div style=&quot;text-align: left&quot;&gt;Transactions&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Indexes&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Joins&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;ACID&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Eventual consistency&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="KQcGgtj78E7ggVcid-q8-1">
+          <mxGeometry x="307" width="153" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KQcGgtj78E7ggVcid-q8-0" value="&lt;h3 style=&quot;text-align: center&quot;&gt;Tips:&lt;/h3&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Batch similar queries and get results.&lt;/li&gt;&lt;li&gt;Query level cache - for same hot query, send just one to DB and share the results.&lt;/li&gt;&lt;li&gt;Reuse connection pool, try not to create new connections as they are expensive, use SQLProxies for authentication, connection pool, re-routing.&lt;/li&gt;&lt;li&gt;Always put limit on results on query - protect query&lt;/li&gt;&lt;li&gt;Blacklist query, timeout query, transactions.&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="LPvS2a-wgWfW8XgeyqXS-1">
+          <mxGeometry x="2630" y="1417.5" width="510" height="232.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
