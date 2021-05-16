@@ -1,6 +1,6 @@
-<mxfile modified="2021-05-15T18:04:13.276Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="HH8-ajXaKLV8rBikH0l9" version="14.6.6" type="github" pages="4">
+<mxfile modified="2021-05-16T08:28:38.788Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="M0uJrpNCBI9v_hQ80oSD" version="14.6.6" type="github" pages="4">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Flow">
-    <mxGraphModel dx="1128" dy="605" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="731" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,7 +147,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9jHKcsUwmbnn1T6EnNXs" name="DataBase">
-    <mxGraphModel dx="1635" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="LPvS2a-wgWfW8XgeyqXS-0" />
         <mxCell id="LPvS2a-wgWfW8XgeyqXS-1" parent="LPvS2a-wgWfW8XgeyqXS-0" />
@@ -193,7 +193,7 @@
         <mxCell id="pszP0FanW5sP4Dd1TjFt-2" value="Scale" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pszP0FanW5sP4Dd1TjFt-1" vertex="1">
           <mxGeometry width="153" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="pszP0FanW5sP4Dd1TjFt-3" value="100~100TB" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pszP0FanW5sP4Dd1TjFt-1" vertex="1">
+        <mxCell id="pszP0FanW5sP4Dd1TjFt-3" value="10~100TB" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pszP0FanW5sP4Dd1TjFt-1" vertex="1">
           <mxGeometry x="153" width="154" height="41" as="geometry" />
         </mxCell>
         <mxCell id="pszP0FanW5sP4Dd1TjFt-4" value="~10PB" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="pszP0FanW5sP4Dd1TjFt-1" vertex="1">
@@ -265,7 +265,7 @@
         <mxCell id="KQcGgtj78E7ggVcid-q8-6" value="Pros" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="KQcGgtj78E7ggVcid-q8-5" vertex="1">
           <mxGeometry width="153" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="KQcGgtj78E7ggVcid-q8-7" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Transactions&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Indexes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Joins&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;ACID&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="KQcGgtj78E7ggVcid-q8-5" vertex="1">
+        <mxCell id="KQcGgtj78E7ggVcid-q8-7" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Transactions&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Indexes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Joins&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;a href=&quot;https://www.bmc.com/blogs/acid-atomic-consistent-isolated-durable/&quot;&gt;ACID&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="KQcGgtj78E7ggVcid-q8-5" vertex="1">
           <mxGeometry x="153" width="154" height="74" as="geometry" />
         </mxCell>
         <mxCell id="KQcGgtj78E7ggVcid-q8-8" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Sharding&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Commodity H/W&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="KQcGgtj78E7ggVcid-q8-5" vertex="1">
