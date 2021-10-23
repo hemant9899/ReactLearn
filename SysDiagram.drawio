@@ -1,4 +1,4 @@
-<mxfile modified="2021-10-23T12:16:49.654Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="1GzBMGh0XA7IAWzTMSI3" version="15.5.8" type="github" pages="6">
+<mxfile modified="2021-10-23T16:42:20.091Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="jdwb1cb31-ngg3xWcIHn" version="15.5.8" type="github" pages="6">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Flow">
     <mxGraphModel dx="1422" dy="802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="#D1D1D1" math="0" shadow="0">
       <root>
@@ -547,7 +547,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1Oivcyb-Pap0KnE5PI1e" name="Prep">
-    <mxGraphModel dx="2031" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="337" dy="194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="uf8if4x3EBl_PatGwPSe-0" />
         <mxCell id="uf8if4x3EBl_PatGwPSe-1" parent="uf8if4x3EBl_PatGwPSe-0" />
@@ -853,6 +853,9 @@
         </mxCell>
         <mxCell id="uf8if4x3EBl_PatGwPSe-84" value="scatter&lt;br&gt;gather top 10" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uf8if4x3EBl_PatGwPSe-1">
           <mxGeometry x="715" y="1140" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uf8if4x3EBl_PatGwPSe-89" value="&lt;h1&gt;Web Crawlers&lt;/h1&gt;&lt;div&gt;- crawl the web and create inverted index&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1- billion sites&lt;/div&gt;&lt;div&gt;10 - billion pages&lt;/div&gt;&lt;div&gt;1000 words per page&lt;/div&gt;&lt;div&gt;300 kb per page&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;refresh index daily&lt;/div&gt;&lt;div&gt;1 B -&amp;gt; 11K sites/sec&lt;/div&gt;&lt;div&gt;10 B pages -&amp;gt; 110K pages/sec&lt;/div&gt;&lt;div&gt;&lt;span&gt;1 page -&amp;gt; 0.3MB&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;10 B pages -&amp;gt; 3PB / day&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;20 PB of data at any moment&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;ingress -&amp;gt; 1.1MB/sec of url stream&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;engress -&amp;gt; 33 GB/sec to parse and store&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span&gt;wait time: 500ms&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span&gt;process time: 5ms&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;thread -&amp;gt;&amp;nbsp; 32 core * (100) * 0.95 -&amp;gt; 3200 threads per vm&lt;/span&gt;&lt;/div&gt;QPS&lt;span&gt;&amp;nbsp;= 6400&lt;br&gt;&lt;/span&gt;total VMs 110k/6400 -&amp;gt; .18K -&amp;gt; 180 vms&lt;br&gt;egrees per vm: 33GB/180 -&amp;gt; 15 GB/vm" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="uf8if4x3EBl_PatGwPSe-1">
+          <mxGeometry x="70" y="1260" width="420" height="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
